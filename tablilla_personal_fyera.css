@@ -141,7 +141,7 @@
 .fyera-exclusive {
 
 .titulo-fyera {
-  width: calc(100% - 200px);
+  width: 100%;
   margin: 0 auto;
   margin-top: 30px;
   font: 400 30px var(--f-title);
@@ -179,7 +179,7 @@
   letter-spacing: 1px;
 }
 .repfv {
-  width: calc(100% - 100px)
+  width: calc(100% - 100px);
   margin: 0 auto;
   margin-top: 40px;
   font: 400 13px/22px var(--f-body);
